@@ -1,0 +1,6 @@
+VSProject/
+DeviceBuild/
+
+*.pdx
+*.elf
+*.dll
